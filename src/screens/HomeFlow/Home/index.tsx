@@ -13,6 +13,7 @@ import {Overview} from '@screens/HomeFlow/Home/components/Overview';
 import {PAGE_HEIGHT, Pager} from '@screens/HomeFlow/Home/components/Pager';
 import {Roadmap} from '@screens/HomeFlow/Home/components/Roadmap';
 import {SocialLinks} from '@screens/HomeFlow/Home/components/SocialLinks';
+import {SolanaAddress} from '@screens/HomeFlow/Home/components/SolanaAddress';
 import {Tasks} from '@screens/HomeFlow/Home/components/Tasks';
 import {Team} from '@screens/HomeFlow/Home/components/Team';
 import {useAchievementsWalkthrough} from '@screens/HomeFlow/Home/hooks/useAchievementsWalkthrough';
@@ -57,6 +58,7 @@ export const Home = memo(() => {
             <View style={isLightDesign ? styles.section : undefined}>
               <Team />
             </View>
+            <SolanaAddress />
             <BscAddress />
             <Roadmap />
             <JoinMainnet />
