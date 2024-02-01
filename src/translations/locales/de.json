@@ -374,6 +374,10 @@
     },
     "verified_tooltip": {
       "title": "KYC Verifiziert"
+    },
+    "solana_address": {
+      "title": "Solana-Adresse",
+      "subtitle": "Bitte geben Sie hier Ihre Solana-Adresse ein."
     }
   },
   "settings": {
@@ -1382,5 +1386,12 @@
         "description": "Herzlichen Glückwunsch, Sie haben Ihre Verifizierung erfolgreich abgeschlossen. Sie sind jetzt berechtigt, Ihren monatlichen Status der BNB Smart Chain-Verteilung aufrechtzuerhalten."
       }
     }
+  },
+  "solana_address": {
+    "title": "Solana-Adresse",
+    "enter_address_title": "Geben Sie Ihre\nSolana-Adresse ein",
+    "enter_address_description": "Fügen Sie unten Ihre Solana-Adresse hinzu, um sich für exklusive Airdrops unserer Meme-Münzen und aufregenden Token im Solana-Netzwerk zu qualifizieren. Machen Sie sich bereit, Überraschungen und Belohnungen freizuschalten, während wir das Krypto-Abenteuer zu Ihnen bringen.",
+    "enter_address_confirmation": "Sind Sie sicher, dass die Solana-Adresse korrekt ist?",
+    "wallet_description": "Wir empfehlen die Verwendung einer selbstverwalteten Wallet wie [[:bold]]Phantom[[/:bold]] oder [[:bold]]Trust Wallet[[/:bold]].\n\nBitte stellen Sie sicher, dass Sie Ihre Wallet-Adresse zweimal überprüfen, um sicherzustellen, dass Sie die Airdrops erhalten."
   }
 }

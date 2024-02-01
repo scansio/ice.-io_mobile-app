@@ -374,6 +374,10 @@
     },
     "verified_tooltip": {
       "title": "KYC Geverifieer"
+    },
+    "solana_address": {
+      "title": "Solana-adres",
+      "subtitle": "Voer asseblief jou Solana-adres hier in."
     }
   },
   "settings": {
@@ -1385,5 +1389,12 @@
         "description": "Gelukwens, jy het jou verifikasie suksesvol voltooi. Jy is nou geregtig om jou maandelikse BNB Slim Kettingverspreidingsstatus te handhaaf."
       }
     }
+  },
+  "solana_address": {
+    "title": "Solana-adres",
+    "enter_address_title": "Voer jou\nSolana-adres in",
+    "enter_address_description": "Voeg jou Solana-adres hieronder by om in aanmerking te kom vir eksklusiewe lugdruppels van ons meme-munte en opwindende tokens op die Solana-netwerk. Maak gereed om verrassings en belonings te ontsluit terwyl ons die krypto-avontuur na jou bring.",
+    "enter_address_confirmation": "Is jy seker dat die Solana-adres korrek is?",
+    "wallet_description": "Ons beveel aan om 'n selfbewaarbeurs soos [[:bold]]Phantom[[/:bold]] of [[:bold]]Trust Wallet[[/:bold]] te gebruik.\n\nMaak asseblief seker dat jy jou beursadres dubbelkontroleer om seker te maak dat jy die lugdruppels sal ontvang."
   }
 }

@@ -374,6 +374,10 @@
     },
     "verified_tooltip": {
       "title": "KYC Hitelesítve"
+    },
+    "solana_address": {
+      "title": "Solana cím",
+      "subtitle": "Kérjük, adja meg itt a Solana címét."
     }
   },
   "settings": {
@@ -1382,5 +1386,12 @@
         "description": "Gratulálunk, sikeresen befejezted az azonosításodat. Most jogosult vagy fenntartani a havi BNB Smart Chain osztási státuszodat."
       }
     }
+  },
+  "solana_address": {
+    "title": "Solana cím",
+    "enter_address_title": "Adja meg\nSolana címét",
+    "enter_address_description": "Adja hozzá Solana címét alább, hogy jogosult legyen exkluzív airdropokra a meme érméinkhez és izgalmas tokenekhez a Solana hálózaton. Készüljön fel a meglepetések és jutalmak feloldására, ahogy a kripto kalandot Önhöz hozzuk.",
+    "enter_address_confirmation": "Biztos benne, hogy a Solana cím helyes?",
+    "wallet_description": "Ajánljuk, hogy olyan önálló megtartó pénztárcát használjon, mint a [[:bold]]Phantom[[/:bold]] vagy a [[:bold]]Trust Wallet[[/:bold]].\n\nKérjük, ellenőrizze kétszer a pénztárca címét, hogy biztos legyen afelől, hogy megkapja az airdropokat."
   }
 }

@@ -374,6 +374,10 @@
     },
     "verified_tooltip": {
       "title": "KYC تایید شده"
+    },
+    "solana_address": {
+      "title": "آدرس Solana",
+      "subtitle": "لطفاً آدرس Solana خود را اینجا وارد کنید."
     }
   },
   "settings": {
@@ -1389,5 +1393,12 @@
         "description": "تبریک می‌گوییم، شما با موفقیت احراز هویت خود را تکمیل کرده‌اید. اکنون اهلیت حفظ وضعیت توزیع ماهیانه BNB Smart Chain خود را دارید."
       }
     }
+  },
+  "solana_address": {
+    "title": "آدرس Solana",
+    "enter_address_title": "آدرس\nSolana خود را وارد کنید",
+    "enter_address_description": "آدرس Solana خود را در زیر اضافه کنید تا برای airdrop های اختصاصی از سکه های میمی و توکن های جذاب در شبکه Solana واجد شرایط شوید. برای باز کردن معجزه ها و پاداش ها آماده شوید زمانی که ما ماجراجویی رمزارز را برای شما به ارمغان می آوریم.",
+    "enter_address_confirmation": "آیا از صحت آدرس Solana مطمئن هستید؟",
+    "wallet_description": "ما پیشنهاد می کنیم از یک کیف پول خود مراقبتی مانند [[:bold]]Phantom[[/:bold]] یا [[:bold]]Trust Wallet[[/:bold]] استفاده کنید.\n\nلطفاً اطمینان حاصل کنید که آدرس کیف پول خود را دو بار برای دریافت airdrop ها بررسی کنید."
   }
 }

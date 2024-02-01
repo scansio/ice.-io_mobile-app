@@ -374,6 +374,10 @@
     },
     "verified_tooltip": {
       "title": "KYC Onaylandı"
+    },
+    "solana_address": {
+      "title": "Solana Adresi",
+      "subtitle": "Lütfen Solana adresinizi buraya girin."
     }
   },
   "settings": {
@@ -1382,5 +1386,12 @@
         "description": "Tebrikler, başarıyla doğrulamanızı tamamladınız. Artık aylık BNB Akıllı Zincir dağıtım durumunuzu sürdürme hakkına sahipsiniz."
       }
     }
+  },
+  "solana_address": {
+    "title": "Solana Adresi",
+    "enter_address_title": "Solana\nadresinizi girin",
+    "enter_address_description": "Solana ağındaki meme coinlerimiz ve heyecan verici tokenlar için özel airdrop'lara hak kazanmak için Solana adresinizi aşağıya ekleyin. Size kripto macerayı getirirken sürprizler ve ödüller açmaya hazır olun.",
+    "enter_address_confirmation": "Solana adresinin doğru olduğundan emin misiniz?",
+    "wallet_description": "Phantom veya Trust Wallet gibi self-custodial bir cüzdan kullanmanızı öneririz.\n\nAirdrop'ları alacağınızdan emin olmak için cüzdan adresinizi iki kez kontrol edin."
   }
 }

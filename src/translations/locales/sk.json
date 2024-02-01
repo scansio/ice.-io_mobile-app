@@ -374,6 +374,10 @@
     },
     "verified_tooltip": {
       "title": "KYC Overené"
+    },
+    "solana_address": {
+      "title": "Solana adresa",
+      "subtitle": "Prosím, zadajte svoju Solana adresu tu."
     }
   },
   "settings": {
@@ -1382,5 +1386,12 @@
         "description": "Gratulujeme, úspešne ste dokončili overenie. Teraz máte nárok udržiavať svoj mesačný status distribúcie BNB Smart Chain."
       }
     }
+  },
+  "solana_address": {
+    "title": "Solana adresa",
+    "enter_address_title": "Zadajte svoju\nSolana adresu",
+    "enter_address_description": "Pridajte svoju Solana adresu nižšie, aby ste sa stali oprávnenými pre exkluzívne airdropy našich meme mincí a vzrušujúcich tokenov na sieti Solana. Pripravte sa na odomykanie prekvapení a odmien, keď vám prinesieme krypto dobrodružstvo.",
+    "enter_address_confirmation": "Ste si istí, že adresa Solana je správna?",
+    "wallet_description": "Odporúčame používať self-custodial peňaženku ako [[:bold]]Phantom[[/:bold]] alebo [[:bold]]Trust Wallet[[/:bold]].\n\nUistite sa, že dvakrát skontrolujete vašu peňaženkovú adresu, aby ste si istí, že dostanete airdropy."
   }
 }

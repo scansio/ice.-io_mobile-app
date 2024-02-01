@@ -374,6 +374,10 @@
     },
     "verified_tooltip": {
       "title": "KYC 認証済み"
+    },
+    "solana_address": {
+      "title": "Solanaアドレス",
+      "subtitle": "Solanaアドレスをこちらに入力してください。"
     }
   },
   "settings": {
@@ -1382,5 +1386,12 @@
         "description": "おめでとうございます、あなたは正常に認証を完了しました。今、月次BNBスマートチェーンの配布ステータスを維持する資格があります。"
       }
     }
+  },
+  "solana_address": {
+    "title": "Solanaアドレス",
+    "enter_address_title": "あなたの\nSolanaアドレスを入力",
+    "enter_address_description": "Solanaネットワーク上での私たちのミームコインとエキサイティングなトークンの独占エアドロップに資格を得るために、以下にSolanaアドレスを追加してください。クリプトアドベンチャーをお楽しみいただけるよう、驚きとリワードをアンロックする準備をしてください。",
+    "enter_address_confirmation": "Solanaアドレスが正しいことを確認しましたか？",
+    "wallet_description": "自己保管ウォレット（[[:bold]]Phantom[[/:bold]]や[[:bold]]Trust Wallet[[/:bold]]のような）を使用することをお勧めします。\n\nウォレットアドレスを2回確認して、エアドロップを受け取ることを確認してください。"
   }
 }

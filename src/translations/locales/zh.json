@@ -374,6 +374,10 @@
     },
     "verified_tooltip": {
       "title": "KYC 已验证"
+    },
+    "solana_address": {
+      "title": "Solana 地址",
+      "subtitle": "请在此输入您的 Solana 地址。"
     }
   },
   "settings": {
@@ -1382,5 +1386,12 @@
         "description": "恭喜您成功完成了您的验证。现在您有资格保持每月BNB智能链分配状态。"
       }
     }
+  },
+  "solana_address": {
+    "title": "Solana 地址",
+    "enter_address_title": "输入您的\nSolana 地址",
+    "enter_address_description": "在下方添加您的 Solana 地址，以有资格参加我们的迷因币和 Solana 网络上的精彩代币的独家 airdrop 活动。准备好解锁惊喜和奖励，因为我们将加密冒险带到您身边。",
+    "enter_address_confirmation": "您确定 Solana 地址是正确的吗？",
+    "wallet_description": "我们建议使用像 [[:bold]]Phantom[[/:bold]] 或 [[:bold]]Trust Wallet[[/:bold]] 这样的自托管钱包。\n\n请确保您仔细检查您的钱包地址，以确保您将收到 airdrop。"
   }
 }

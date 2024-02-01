@@ -374,6 +374,10 @@
     },
     "verified_tooltip": {
       "title": "KYC Đã Xác Minh"
+    },
+    "solana_address": {
+      "title": "Địa chỉ Solana",
+      "subtitle": "Vui lòng nhập địa chỉ Solana của bạn ở đây."
     }
   },
   "settings": {
@@ -1382,5 +1386,12 @@
         "description": "Xin chúc mừng, bạn đã hoàn thành xác minh của bạn thành công. Bây giờ bạn đã đủ điều kiện duy trì trạng thái phân phối hàng tháng của BNB Smart Chain."
       }
     }
+  },
+  "solana_address": {
+    "title": "Địa chỉ Solana",
+    "enter_address_title": "Nhập địa chỉ\nSolana của bạn",
+    "enter_address_description": "Thêm địa chỉ Solana của bạn dưới đây để đủ điều kiện tham gia airdrop độc quyền của các đồng tiền meme của chúng tôi và các token thú vị trên mạng lưới Solana. Hãy sẵn sàng mở khóa những điều bất ngờ và phần thưởng khi chúng tôi mang cuộc phiêu lưu tiền điện tử đến bạn.",
+    "enter_address_confirmation": "Bạn có chắc rằng địa chỉ Solana là chính xác không?",
+    "wallet_description": "Chúng tôi khuyên bạn nên sử dụng ví tự quản lý như [[:bold]]Phantom[[/:bold]] hoặc [[:bold]]Trust Wallet[[/:bold]].\n\nVui lòng đảm bảo kiểm tra địa chỉ ví của bạn hai lần để đảm bảo bạn sẽ nhận được airdrop."
   }
 }

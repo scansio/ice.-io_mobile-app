@@ -374,6 +374,10 @@
     },
     "verified_tooltip": {
       "title": "KYC Verifierad"
+    },
+    "solana_address": {
+      "title": "Solana-adress",
+      "subtitle": "Var god och ange din Solana-adress här."
     }
   },
   "settings": {
@@ -1382,5 +1386,12 @@
         "description": "Grattis, du har framgångsrikt slutfört din verifiering. Du är nu berättigad att behålla din månatliga status för distribution av BNB Smart Chain."
       }
     }
+  },
+  "solana_address": {
+    "title": "Solana-adress",
+    "enter_address_title": "Ange din\nSolana-adress",
+    "enter_address_description": "Lägg till din Solana-adress nedan för att vara kvalificerad för exklusiva airdrops av våra meme-mynt och spännande tokens på Solana-nätverket. Var redo att låsa upp överraskningar och belöningar när vi tar kryptoäventyret till dig.",
+    "enter_address_confirmation": "Är du säker på att Solana-adressen är korrekt?",
+    "wallet_description": "Vi rekommenderar att du använder en självstyrd plånbok som [[:bold]]Phantom[[/:bold]] eller [[:bold]]Trust Wallet[[/:bold]].\n\nSe till att dubbelkolla din plånboksadress för att säkerställa att du kommer att få airdrops."
   }
 }

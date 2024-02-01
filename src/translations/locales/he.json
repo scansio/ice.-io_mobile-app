@@ -374,6 +374,10 @@
     },
     "verified_tooltip": {
       "title": "KYC מאומת"
+    },
+    "solana_address": {
+      "title": "כתובת Solana",
+      "subtitle": "אנא הזינו את כתובת ה-Solana שלכם כאן."
     }
   },
   "settings": {
@@ -1389,5 +1393,12 @@
         "description": "ברכות, הושלמה בהצלחה את תהליך האימות שלך. אתה כעת זכאי לשמור על מעמד ההפצה החודשי של BNB Smart Chain שלך."
       }
     }
+  },
+  "solana_address": {
+    "title": "כתובת Solana",
+    "enter_address_title": "הזינו את\nכתובת ה-Solana שלכם",
+    "enter_address_description": "הוסיפו את כתובת ה-Solana שלכם למטה כדי להיות זכאים לאיירדרופים בלעדיים של המטבעות הממיימים שלנו ולטוקנים מרגשים ברשת Solana. התכוננו לפתוח הפתעות ותגמולים כשאנחנו מביאים לכם את ההרפתקאות הקריפטו.",
+    "enter_address_confirmation": "האם אתם בטוחים שכתובת ה-Solana נכונה?",
+    "wallet_description": "אנו ממליצים להשתמש בארנק self-custodial כמו [[:bold]]Phantom[[/:bold]] או [[:bold]]Trust Wallet[[/:bold]].\n\nאנא הוודא שבידקתם את כתובת הארנק שלכם פעמיים כדי לוודא שתקבלו את האיירדרופים."
   }
 }

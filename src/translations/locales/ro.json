@@ -374,6 +374,10 @@
     },
     "verified_tooltip": {
       "title": "KYC Verificat"
+    },
+    "solana_address": {
+      "title": "Adresa Solana",
+      "subtitle": "Vă rugăm să introduceți adresa dvs. Solana aici."
     }
   },
   "settings": {
@@ -1382,5 +1386,12 @@
         "description": "Felicitări, ați finalizat cu succes verificarea dumneavoastră. Acum sunteți eligibil pentru a vă menține statutul de distribuție lunară a BNB Smart Chain."
       }
     }
+  },
+  "solana_address": {
+    "title": "Adresa Solana",
+    "enter_address_title": "Introduceți\nadresa Solana",
+    "enter_address_description": "Adăugați adresa Solana mai jos pentru a fi eligibil pentru airdrop-uri exclusive ale monedelor noastre meme și a tokenurilor interesante pe rețeaua Solana. Pregătiți-vă să deblocați surprize și recompense pe măsură ce aducem aventura cripto la dumneavoastră.",
+    "enter_address_confirmation": "Sunteți sigur că adresa Solana este corectă?",
+    "wallet_description": "Vă recomandăm să utilizați un portofel self-custodial precum [[:bold]]Phantom[[/:bold]] sau [[:bold]]Trust Wallet[[/:bold]].\n\nAsigurați-vă că verificați de două ori adresa portofelului pentru a vă asigura că veți primi airdrop-uri."
   }
 }

@@ -375,6 +375,10 @@
     },
     "verified_tooltip": {
       "title": "KYC ตรวจสอบแล้ว"
+    },
+    "solana_address": {
+      "title": "ที่อยู่ Solana",
+      "subtitle": "โปรดป้อนที่อยู่ Solana ของคุณที่นี่"
     }
   },
   "settings": {
@@ -1383,5 +1387,12 @@
         "description": "ยินดีด้วยคุณได้ทำการยืนยันข้อมูลของคุณเรียบร้อยแล้ว คุณสามารถรักษาสถานะการกระจาย BNB Smart Chain รายเดือนของคุณได้แล้ว"
       }
     }
+  },
+  "solana_address": {
+    "title": "ที่อยู่ Solana",
+    "enter_address_title": "ป้อนที่อยู่\nSolana ของคุณ",
+    "enter_address_description": "เพิ่มที่อยู่ Solana ของคุณด้านล่างเพื่อมีสิทธิ์ใน airdrop พิเศษของเหรียญมีมและโทเค็นที่น่าตื่นเต้นบนเครือข่าย Solana พร้อมรับความพร้อมในการปลดล็อคความประทับใจและรางวัลเมื่อเรานำการผจญภัยด้านคริปโตมาหาคุณ",
+    "enter_address_confirmation": "คุณแน่ใจหรือไม่ว่าที่อยู่ Solana ถูกต้อง?",
+    "wallet_description": "เราขอแนะนำให้ใช้กระเป๋าเงินที่เป็น self-custodial เช่น [[:bold]]Phantom[[/:bold]] หรือ [[:bold]]Trust Wallet[[/:bold]]\n\nโปรดตรวจสอบที่อยู่กระเป๋าเงินของคุณสองครั้งเพื่อให้แน่ใจว่าคุณจะได้รับ airdrop"
   }
 }

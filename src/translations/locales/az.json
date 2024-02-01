@@ -374,6 +374,10 @@
     },
     "verified_tooltip": {
       "title": "KYC Təsdiqləndi"
+    },
+    "solana_address": {
+      "title": "Solana ünvanı",
+      "subtitle": "Xahiş edirik Solana ünvanınızı buraya daxil edin."
     }
   },
   "settings": {
@@ -1382,5 +1386,12 @@
         "description": "Təbrik edirik, sizi uğurla təsdiq etdiniz. Artıq aylıq BNB Smart Chain təqdimat statusunuzu qorumaq üçün əhəmiyyətli olduğunuzu qeyd edirik."
       }
     }
+  },
+  "solana_address": {
+    "title": "Solana ünvanı",
+    "enter_address_title": "Solana ünvanınızı daxil edin",
+    "enter_address_description": "Solana şəbəkəsindəki memo valyutalarımız və maraqlı tokenlarımızın eksklüziv hava paylanmalarına layiq olmaq üçün Solana ünvanınızı aşağıda əlavə edin. Biz kripto macərasını sizə gətirərkən sürprizləri və mükafatları açmağa hazır olun.",
+    "enter_address_confirmation": "Solana ünvanının düzgün olduğundan əminsinizmi?",
+    "wallet_description": "[[:bold]]Phantom[[/:bold]] və ya [[:bold]]Trust Wallet[[/:bold]] kimi özünüzün nəzarətində olan bir çantadan istifadə etməyi tövsiyə edirik.\n\nZəhmət olmasa çantanızın ünvanını qəbul etdiyiniz hava paylanmalarını alacağınızdan əmin olmaq üçün iki dəfə yoxlayın."
   }
 }
