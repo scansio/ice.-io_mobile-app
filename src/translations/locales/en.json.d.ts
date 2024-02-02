@@ -425,6 +425,8 @@ export type Translations = {
   'balance_history.title': null;
   'balance_history.wallet': null;
   'balance_history.blockchain': null;
+  'balance_history.you': null;
+  'balance_history.contribution': null;
   'balance_history.wallet_update_interval': null;
   'balance_history.blockchain_update_interval': null;
   'balance_history.list_end_label': null;
